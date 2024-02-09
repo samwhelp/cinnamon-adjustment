@@ -9,15 +9,6 @@
 
 
 
-## Adjustment
-
-| Adjustment |
-| ---------- |
-| [Boron](https://github.com/samwhelp/cinnamon-adjustment/tree/main/prototype/main/bunsen-config/Main) |
-
-
-
-
 ## Keybind
 
 | Keybind |
