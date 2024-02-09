@@ -34,7 +34,6 @@ parent: Config
 | `Win + [Mouse Left Drag]`      | Move Window                 |
 | `Win + [Mouse Right Drag]`     | Resize Window               |
 | `Win + [Mouse Middle Click]`   | Show Client Menu            |
-| `Alt + [Mouse Middle Click]`   | Window Lower and UnFocus    |
 
 
 ## Window Titlebar
@@ -55,18 +54,13 @@ parent: Config
 | Mousebind                      | Action                      |
 | ------------------------------ | --------------------------- |
 | `[Mouse Left Drag]`            | Window Resize               |
-| `[Mouse Right Click]`          | Show Client Menu            |
 
 
 ## Desktop
 
 | Mousebind                      | Action                      |
 | ------------------------------ | --------------------------- |
-| `[Mouse Left Double Click]`    | Toggle Show Desktop         |
 | `[Mouse Right Click]`          | Show Root Menu              |
-| `[Mouse Middle Up]`            | Previous Workspace          |
-| `[Mouse Middle Down]`          | Next Workspace              |
-| `[Mouse Middle Click]`         | Show Workspace Menu         |
 
 
 ## Link
